@@ -1,8 +1,19 @@
+p {
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
 .first-box-container {
     width: 200px;
     height: 100px;
     background-color: red;
     position: absolute;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+    padding: 20px 5px;
   }
   
   .second-box-container {
@@ -10,7 +21,11 @@
     height: 100px;
     background-color: yellow;
     position: absolute;
-    left: 250px;
+    left: 270px;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    padding: 20px 5px;
   }
   
   .third-box-container {
@@ -18,6 +33,10 @@
     height: 100px;
     background-color: green;
     position: absolute;
-    left: 500px;
+    left: 530px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
+    padding: 20px 5px;
   }
   
