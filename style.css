@@ -1,3 +1,19 @@
 p { 
-    background-color: red; 
+    color:indianred; 
+}
+
+h1 {
+    color:blue
+}
+
+h2, h3 {
+    color:indianred
+}
+
+li {
+    color:violet
+}
+
+#punainen-kohta {
+    color:red
 }
